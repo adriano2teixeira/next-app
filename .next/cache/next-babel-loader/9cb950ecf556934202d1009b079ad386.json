@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\nexport default function Contact() {\n  return /*#__PURE__*/_jsx(\"h3\", {\n    children: \"Contact page\"\n  });\n}","map":null,"metadata":{},"sourceType":"module"}
